@@ -68,9 +68,9 @@ Expected output: The bits of the parallel input (`1010`) should appear sequentia
 
 ## Simulation Waveforms
 Below is an example waveform captured during simulation:
+### Waveform
+<img width="1919" height="1079" alt="PISO_waveform" src="https://github.com/user-attachments/assets/e8293229-c740-461d-82c2-54517f162c82" />
 
-![waveform](PISO_waveform.png<img width="1919" height="1079" alt="PISO_waveform" src="https://github.com/user-attachments/assets/e8293229-c740-461d-82c2-54517f162c82" />
-)
 
 - `i_clk`: Clock signal (10 ns period).  
 - `i_rst`: Asynchronous reset signal.  
